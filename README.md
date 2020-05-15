@@ -1,4 +1,5 @@
 # Sistem Pendeteksi Dini Suhu Tubuh di Tempat Umum
+![Interface](proyek.BMP)
 Merupakan sebuah program yang dibuat menggunakan bahasa Assembly untuk melakukan pengecekan suhu tubuh di tempat umum dengan cepat. Program ini dibuat menggunakan:
 * Mikrokontroler AT89C51
 * Sensor temperatur LM35
