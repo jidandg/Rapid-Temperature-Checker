@@ -1,6 +1,6 @@
 # Sistem Pendeteksi Dini Suhu Tubuh di Tempat Umum
 ![Interface](proyek.BMP)
-Merupakan sebuah sistem yang dibuat menggunakan bahasa Assembly untuk mikrokontroler dengan arsitektur 8051. Sistem ini dapat melakukan pengecekan suhu tubuh di tempat umum dengan cepat. Program ini dibuat menggunakan:
+Merupakan sebuah sistem yang dibuat menggunakan bahasa Assembly untuk mikrokontroler dengan arsitektur 8051 dan dengan bantuan program Proteus 8 Professional. Sistem ini dapat melakukan pengecekan suhu tubuh di tempat umum dengan cepat. Program ini dibuat menggunakan:
 * Mikrokontroler AT89C51
 * Sensor temperatur LM35
 * _Analog-to-Digital Converter_ ADC0804
