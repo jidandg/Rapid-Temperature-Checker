@@ -4,5 +4,5 @@ Merupakan sebuah sistem yang dibuat menggunakan bahasa Assembly untuk mikrokontr
 * Mikrokontroler AT89C51
 * Sensor temperatur LM35
 * _Analog-to-Digital Converter_ ADC0804
-* Sensor inframerah, yang didapatkan dari tautan [berikut](https://www.theengineeringprojects.com/2018/07/infrared-sensor-library-for-proteus.html).
+* Sensor inframerah, yang dapat diunduh dari tautan [berikut](https://www.theengineeringprojects.com/2018/07/infrared-sensor-library-for-proteus.html).
 * LCD 40x2 LM018L
